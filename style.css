@@ -149,11 +149,11 @@ nav {
 }
 
 .movements__type--deposit {
-  background-image: linear-gradient(to top left, #28abb9,#9ddfd3);
+  background-image: linear-gradient(to top left, #2897b9,#8ad5f3);
 }
 
 .movements__type--withdrawal {
-  background-image: linear-gradient(to top left, #e52a5a, #ff585f);
+  background-image: linear-gradient(to top left, #f3567d, #f87cac);
 }
 
 .movements__value {
@@ -184,11 +184,11 @@ nav {
 
 .summary__value--in,
 .summary__value--interest {
-  color: #9ddfd3;
+  color: #55f8f0;
 }
 
 .summary__value--out {
-  color: #f5465d;
+  color: #ff3579;
 }
 
 .btn--sort {
@@ -208,15 +208,15 @@ nav {
 }
 
 .operation--transfer {
-  background-image: linear-gradient(to top left, #ffb003, #ffcb03);
+  background-image: linear-gradient(to top left, #ff7403, #fbff03);
 }
 
 .operation--loan {
-  background-image: linear-gradient(to top left,#28abb9, #9ddfd3);
+  background-image: linear-gradient(to top left,#1dc0cc, #64ebf0);
 }
 
 .operation--close {
-  background-image: linear-gradient(to top left, #e52a5a, #ff585f);
+  background-image: linear-gradient(to top left, #e44c7e, #ff58c7);
 }
 
 h2 {
